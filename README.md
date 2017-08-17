@@ -65,5 +65,3 @@ While there are many different channels that you can use to get hold of us ([Sla
 If you need support, start with the [troubleshooting guide](http://kubernetes.io/docs/troubleshooting/) and work your way through the process that we've outlined.
 
 That said, if you have questions, reach out to us one way or another.  We don't bite!
-
-[![Analytics](https://kubernetes-site.appspot.com/UA-36037335-10/GitHub/README.md?pixel)]
